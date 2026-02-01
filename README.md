@@ -1,1 +1,2 @@
-https://michamba.github.io
+https://michamba.io
+
